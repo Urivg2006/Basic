@@ -37,3 +37,5 @@ Currently, the repository contains the following programs:
     * Basic geometric calculations area or perimeter using variables.
 * **`preu.java`**:
     * Cost calculation, applying taxes or discounts.
+   
+PD: This documents are in Catalan and Spanish
