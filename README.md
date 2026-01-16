@@ -17,6 +17,9 @@ Actualment el repositori conté els següents programes:
     * Càlculs geomètrics bàsics àrea o perímetre utilitzant variables.
 * **`preu.java`**:
     * Càlcul de costos, aplicació d'impostos o descomptes.
+
+PD: Els Javas estan fets  originalment fets en català però he ficat comentaris de la traducció
+
  ---
 **English:**
 # ☕ Java Basics
@@ -38,4 +41,4 @@ Currently, the repository contains the following programs:
 * **`preu.java`**:
     * Cost calculation, applying taxes or discounts.
    
-PD: This documents are in Catalan and Spanish
+PD: The Javas are originally made in Catalan but I have included comments on the translation. 
