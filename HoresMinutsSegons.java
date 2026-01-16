@@ -6,7 +6,8 @@ public class HoresMinutsSegons {
      */
     public static void main(String[] args) {
         Scanner teclat = new Scanner(System.in);
-        System.out.print("Afegeix uns segons: ");
+        /*Catalan*/System.out.print("Afegeix uns segons: ");
+        /*English*/ /*System.out.print("Add seconds: ");*/
         int segons;  // Exemple:   41668;
         segons=teclat.nextInt();
         double hores=segons/3600;
@@ -14,9 +15,8 @@ public class HoresMinutsSegons {
         double minuts= residu/60;
         double residu_2=segons%60;
         double segons_def=residu_2%60;
-        System.out.print("Això son: " + hores + " hores amb " + minuts + " i " + segons_def);
-        // posa el teu codi aquí sota
-        // Entra primer el valor dels segons per teclat
+        /*Catalan*/System.out.print("Això son: " + hores + " hores amb " + minuts + " minut i " + segons_def + " segons.");
+        /*English*//*System.out.print("This is: " + hores + " hours with " + minuts + " minutes and " + segons_def + " seconds.");*/
         
     }
 }
