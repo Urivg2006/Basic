@@ -18,7 +18,7 @@ Actualment el repositori conté els següents programes:
 * **`preu.java`**:
     * Càlcul de costos, aplicació d'impostos o descomptes.
 
-PD: Els Javas estan fets  originalment fets en català però he ficat comentaris de la traducció
+> **⚠️PD:** Els Javas estan fets  originalment fets en català però he ficat comentaris de la traducció
 
  ---
 **English:**
@@ -41,4 +41,4 @@ Currently, the repository contains the following programs:
 * **`preu.java`**:
     * Cost calculation, applying taxes or discounts.
    
-PD: The Javas are originally made in Catalan but I have included comments on the translation. 
+> **⚠️PD:** The Javas are originally made in Catalan but I have included comments on the translation. 
