@@ -18,9 +18,16 @@ Actualment el repositori conté els següents programes:
 * **`preu.java`**:
     * Càlcul de costos, aplicació d'impostos o descomptes.
 
+---
+## 📜 Llicència
+Aquest projecte està sota la llicència **The Unlicense**. Aquest codi és de domini públic i no té cap restricció d'ús. Consulta el fitxer [LICENSE](LICENSE) per a més detalls.
+
+---
+
 > **⚠️PD:** Els Javas estan fets  originalment fets en català però he ficat comentaris de la traducció
 
  ---
+
 **English:**
 # ☕ Java Basics
 
@@ -40,5 +47,12 @@ Currently, the repository contains the following programs:
     * Basic geometric calculations area or perimeter using variables.
 * **`preu.java`**:
     * Cost calculation, applying taxes or discounts.
+    
+---
+
+## 📜  License
+This project is released under **The Unlicense**. This code is in the public domain and has no restrictions on use. See the [LICENSE](LICENSE) file for details.
+
+---
    
 > **⚠️PD:** The Javas are originally made in Catalan but I have included comments on the translation. 
